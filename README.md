@@ -23,4 +23,4 @@ Durante o curso foram abordados os seguintes tópicos:
 ## 🛠️ Como executar
 1. Clone o repositório:
    ```bash
-   git clone (https://github.com/leorusso2300/exercicios-java-colecoes-streams.git)
+   git clone https://github.com/leorusso2300/exercicios-java-colecoes-streams.git
