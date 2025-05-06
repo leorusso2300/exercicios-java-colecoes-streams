@@ -3,7 +3,7 @@
 Este repositório contém os exercícios realizados durante o curso **"Praticando Java: coleções e streams"** da plataforma [Alura](https://cursos.alura.com.br/course/praticando-java-colecoes-streams).
 ## 💻 Tecnologias utilizadas
 - Java 17 (ou a versão que você estiver usando)
-- IDE: IntelliJ IDEA / Eclipse
+- IDE: Eclipse
 - JDK instalado
 
 ## 📚 Conteúdos praticados
